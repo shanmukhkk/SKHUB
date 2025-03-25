@@ -53,10 +53,10 @@ const About: React.FC = () => {
   
   const team = [
     {
-      name: 'Rajesh Kumar',
+      name: 'RK',
       role: 'CEO',
       image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80',
-      bio: 'With over 15 years of experience in the hospitality industry, Rajesh founded SKHUB to revolutionize the nightlife scene in Bhimavaram.'
+      bio: 'With over 15 years of experience in the hospitality industry, RK is acting as working CEO of SKHUB to revolutionize the nightlife scene in Bhimavaram.'
     },
     {
       name: 'Priya Sharma',
